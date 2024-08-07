@@ -1,0 +1,14 @@
+{
+  "name": "amazon-product-check",
+  "version": "1.0.0",
+  "description": "Automation project via Playwright to check if an Amazon product can be searched, available quantity checked and added to cart. Read below instructions to get started on your own and create your own project.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.1.0"
+  }
+}
